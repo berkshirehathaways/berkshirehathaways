@@ -1,6 +1,9 @@
 # Steven Shin
 
-Building and contributing to practical open-source tools.
+I think and write about investing, parenting, and how technology is shaping our future.
+I'm a dad and a Berkshire Hathaway nerd.
+I write and build **Frontier Note** and **Gangnam Dad Diaries (강남아빠일기)**,
+and support the **NomaDamas hacker house** by sponsoring AI token costs.
 
 ## Public contributions
 
