@@ -1,16 +1,14 @@
-## Hi there 👋
+# Steven Shin
 
-<!--
-**berkshirehathaways/berkshirehathaways** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building and contributing to practical open-source tools.
 
-Here are some ideas to get you started:
+## Public contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent)
+- [`NomaDamas/k-skill`](https://github.com/NomaDamas/k-skill)
+- [`Q00/ouroboros`](https://github.com/Q00/ouroboros)
+- [`Yeachan-Heo/gajae-code`](https://github.com/Yeachan-Heo/gajae-code)
+- [`Ouro-labs/ouroboros-plugins`](https://github.com/Ouro-labs/ouroboros-plugins)
+- [`minpeter/minpeter-skills`](https://github.com/minpeter/minpeter-skills)
+- [`shaun0927/toocheck`](https://github.com/shaun0927/toocheck)
+- [`vyvhouse/vyv-house`](https://github.com/vyvhouse/vyv-house)
