@@ -27,11 +27,12 @@ and how they work. I write, edit, and build the site.
 Letters to my son about life, values, and growing up together.
 
 
-## Supporting
+## Backing builders
 
+- **[NomaDamas](https://github.com/NomaDamas) — Proud Token Sponsor**  
+  Supporting a Seoul-based AI open-source hacker house by helping keep its agents running and its builders shipping.
 
-**[NomaDamas](https://github.com/NomaDamas)** · AI token sponsor\
-I help cover AI usage costs for this open-source AI hacker house in Seoul.
+> The people building the future deserve more than applause.
 
 
 ## Open-source contributions
